@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#logo{
+ margin-left: 70px;
+ font-size: 29px;
+ font-weight: 600;
+ color: #0802A3;
+}
+ul li a{
+    transform: translate(390px,0);
+}
+.btnst{
+  transform: translate(-40px,0);
+}
