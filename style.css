@@ -29,3 +29,50 @@ ul li a{
 #carouselExampleSlidesOnly{
     margin-left: 200px;
 }
+
+/* why choose us section */
+.cardchi{
+    transform: translate(58px,0);
+    justify-content: space-between;
+}
+.card-img-top{
+   margin-top: 20px;
+   width: 130px !important;
+   margin-left: 15px;
+}
+.card-body{
+    color: #ffff !important ;
+}
+.and1{
+    background-color: #0802A3 !important;
+}
+.and2{
+    background-color: #FF7676 !important;
+}
+.and3{
+    background-color: #FF4B91 !important;
+}
+.and4{
+    background-color: #FFCD4B !important;
+}
+/* our teaching section */
+.teaching{
+    transform: translate(30px,0);
+    justify-content: space-between;
+}
+.bord1{
+    border: 1px solid #0802A3 !important;
+}
+.bord2{
+    border: 1px solid #FF7676 !important;
+}
+.bord3{
+    border: 1px solid #FF4B91 !important;
+}
+.bodytext{
+    color: #4F0101 !important;
+    margin-top: 105px;
+    margin-left: 15px;
+    font-size: 30px;
+    font-weight: 680;
+}
