@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* navbar */
 #logo{
  margin-left: 70px;
  font-size: 29px;
@@ -14,4 +15,17 @@ ul li a{
 }
 .btnst{
   transform: translate(-40px,0);
+}
+/* below navbar hero section */
+.Discover b{
+    font-weight: 650;
+    font-size: 35px;
+}
+.Islamic{
+    font-size: 19px;
+    font-weight: 450;
+}
+/* carousel-section */
+#carouselExampleSlidesOnly{
+    margin-left: 200px;
 }
